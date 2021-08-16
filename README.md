@@ -24,3 +24,6 @@ This application built in Asp.net core. which belongs a MVC design pattern , dep
 To run this application just open it with vs2019  and change the connection string as per your db details along with manageContacts db.
 you can run it on IISExpress or host it on a local IIS by publishing this application.
 
+
+Thanks and Regards,
+Arihant Jain
